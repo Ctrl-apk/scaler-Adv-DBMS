@@ -366,4 +366,5 @@ int main()
     rbt.print();
 
     return 0;
-}
+}cd ..
+git status
